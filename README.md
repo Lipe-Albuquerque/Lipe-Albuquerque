@@ -27,6 +27,6 @@ I'm Filipe Albuquerque, programming student 🧑‍🎓 and game lover 🎮❤�
   
 ##
   
- 
+   ![Snake animation](https://github.com/Lipe-Albuquerque/Lipe-Albuquerque/blob/output/github-contribution-grid-snake.svg)
   
   
