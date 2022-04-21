@@ -1,7 +1,13 @@
+
 ### Hi there 🔰
 Welcome to my Github,
 I'm Filipe Albuquerque, programming student 🧑‍🎓 and game lover 🎮❤️
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Lipe-Albuquerque"
+    alt="gargakshit"
+  />
+</p>
 <div align="center">
   <a href="https://github.com/Lipe-Albuquerque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lipe-Albuquerque&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
