@@ -26,9 +26,9 @@ I'm Filipe Albuquerque, programming student 🧑‍🎓 and game lover 🎮❤�
 ##
 
 <div> 
-  <a href="https://instagram.com/filipe_albuquerque9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:filipe.intel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/filipe-albuquerque-9689891a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/filipe_albuquerque9" target="_blank"><img src="https://img.shields.io/badge/-@filipe-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:filipe.intel@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/filipe-albuquerque-9689891a5/" target="_blank"><img src="https://img.shields.io/badge/-Filipe-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 ##
@@ -36,3 +36,7 @@ I'm Filipe Albuquerque, programming student 🧑‍🎓 and game lover 🎮❤�
    ![Snake animation](https://github.com/Lipe-Albuquerque/Lipe-Albuquerque/blob/output/github-contribution-grid-snake.svg)
   
   
+
+
+
+
