@@ -2,6 +2,8 @@
 ### Hi there 🔰
 Welcome to my Github,
 I'm Filipe Albuquerque, programming student 🧑‍🎓 and game lover 🎮❤️
+
+I have studied programming for 2 years and in 2022, I had the opportunity to participate in the entra21 project, where I am polishing myself and learning to program in the most professional way possible.
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Lipe-Albuquerque"
@@ -25,7 +27,7 @@ I'm Filipe Albuquerque, programming student 🧑‍🎓 and game lover 🎮❤�
   
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/filipe_albuquerque9" target="_blank"><img src="https://img.shields.io/badge/-@filipe-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:filipe.intel@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-albuquerque-9689891a5/" target="_blank"><img src="https://img.shields.io/badge/-Filipe-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,7 +38,5 @@ I'm Filipe Albuquerque, programming student 🧑‍🎓 and game lover 🎮❤�
    ![Snake animation](https://github.com/Lipe-Albuquerque/Lipe-Albuquerque/blob/output/github-contribution-grid-snake.svg)
   
   
-
-
 
 
